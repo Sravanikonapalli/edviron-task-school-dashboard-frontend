@@ -35,4 +35,17 @@ Dashboard Pages
     Features:
     -Input field for custom_order_id.
     =Displays the transaction status (e.g., Success, Pending, Failed).
-    -Navigation: Available as a modal or a dedicated page.
+    -Navigation: Available as a modal or a dedicated page
+
+ ______________________________________________________________________________________________________________________
+
+ IMAGES
+
+ ------------------------------------------------------------------------------------------------
+
+ img 1:  https://postimg.cc/nMztJRzh
+ img2 : https://postimg.cc/kB26Bvjn
+ img 3 : https://postimg.cc/dZdbxXss
+ img 4: https://postimg.cc/NLkqm3zD
+   .
+   
