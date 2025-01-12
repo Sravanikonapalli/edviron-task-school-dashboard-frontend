@@ -1,0 +1,80 @@
+.dashboard-container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.dashboard-header {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.dashboard-filters {
+  margin-bottom: 20px;
+}
+
+.dashboard-filters select,
+.dashboard-filters input {
+  padding: 10px;
+  margin: 5px;
+  width: 200px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.transactions-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.transactions-table th,
+.transactions-table td {
+  padding: 12px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+.transactions-table th {
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+.transactions-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.transactions-table tr:hover {
+  background-color: #eaeaea;
+}
+
+.dark-mode {
+  background-color: #333;
+  color: #fff;
+}
+
+.dark-mode .transactions-table {
+  background-color: #444;
+}
+
+.dark-mode .form-control {
+  background-color: #555;
+  color: #fff;
+}
+
+.dark-mode .btn-toggle {
+  background-color: #666;
+  color: #fff;
+  text-align: center; 
+}
+
+.btn-toggle {
+  margin-left: auto; 
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+td{
+  color: cornflowerblue;
+}
