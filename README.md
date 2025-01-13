@@ -8,7 +8,11 @@ PROJECT SET UP
      -- npm install axios react-router-dom react-icons react-router and so on.
 
 3. Run :
-   npm start  
+   npm install
+   npm start
+
+(In my project, when the backend code is run on a server (e.g., http://localhost:3000/api/transactions), 
+ in that case only the data values from the database table are displayed)   
 _____________________________________________________________________________________
 
 DETAILED DOC FOR EACH PAGE
